@@ -3,6 +3,7 @@
 **Technologies Used:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 **Steps Involved**
+
 **1. Data Preparation:** Loaded and cleaned the Netflix dataset. Handled missing values and inconsistencies. Converted data into a structured format for analysis.
 
 **2. Data Exploration:** Analyzed dataset structure and key attributes. Performed descriptive statistics and visualized distributions. Identified patterns in genres, ratings, and release years.
